@@ -1,0 +1,2 @@
+Merhaba Dünya!
+C++ ile dosyalama dersine hoþ geldiniz.
